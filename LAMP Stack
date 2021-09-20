@@ -1,2 +1,7 @@
 #Overview: Deploying a Lamp stack (Bitnami) on a Compute Engine Instance using the GCP Cloud Marketplace. 
+The LAMP Stack consist of Linux, Apache HTTP Server, MySQL, PHP and phpMyAdmin
 
+STEPS:
+- Make sure you signed into Qwiklabs using an incognito
+- Click 'START LAB'.
+- 
